@@ -1,0 +1,20 @@
+
+
+  --     -------- -----------
+ git init
+ git add .
+   4 git commit -m "commit 01 de DanielLópez"
+   5 gh repo create
+   6 gh repo view --web
+   7 git checkout -b feat mkdir Hardware Software SeguridadInformat touch Hardware/resumen. touch Software/resumen. touch SeguridadInformatica/resumen.txt
+   8 git push -u origin feature
+   9 git add .
+  10 git branch
+  11 git commit -m "commit 02 de DanielLópez"
+  12 git push
+  13 git switch main
+  14 git branch
+  15 mv .\main.js resumenHardware.txt
+  16 mv .\index.html resumenSoftware.txt
+  17 history
+
